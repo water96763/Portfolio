@@ -53,16 +53,16 @@
 //       }); 
 // }
 
-$("#enter").on("click", function(event) {
-  event.preventDefault();
-  searchGiphy();
-//   projects.push(fruit);
-  renderButtons();
-  console.log("jello")
-});
+// $("#enter").on("click", function(event) {
+//   event.preventDefault();
+//   searchGiphy();
+// //   projects.push(fruit);
+//   renderButtons();
+//   console.log("jello")
+// });
 
-$(".crystal").on("click", function(event) {
-    window.open(https://water96763.github.io/unit-4-game/);
+$("#badge").on("click", function(event) {
+    window.open(https://github.com/water96763/);
 }
 
-renderButtons();
+// renderButtons();

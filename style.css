@@ -1,14 +1,8 @@
-h1 {
-    color: black;
-    font-size: 400px;
-    }
 
-.jumbotron {
-    text-align: left;
-}
 
 .badge {
     align-self: auto;
+    
 }
 
 #left {
@@ -18,7 +12,7 @@ h1 {
 }
 
 body { 
-    background: url("images/il_fullxfull.467934674_gssw.jpg") no-repeat center center fixed; 
+    background: url("images/wave.jpg") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -28,19 +22,16 @@ body {
 #badge {
     align-self: auto;
 }
-.ubh-jumbotron-heading-account-label {
-  font-size: 1.2em;
+.ubh-jumbotron-heading-label {
+  font-size: 50px;
   font-variant: small-caps;
   font-weight: 600;
   color: #000000;
+  font-family: 'Acme', sans-serif;
 }
-.ubh-jumbotron-heading-account-value {
-  font-size: 1.3em;
-  font-variant: small-caps;
-  font-weight: 600;
-  color: #e2b80d;
-}
+
 .jumbotron hr {
+    background-color: black;
   margin-top: 5px;
   margin-bottom: 5px;
 }
@@ -53,5 +44,8 @@ body {
 .ubh-jumbotron-value {
     font-size: 1.2em;
     font-weight: 575;
-    color: #E2B80D;
+    color: black;
+}
+#val {
+background-color: rgb(121, 81, 6);
 }
